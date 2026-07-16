@@ -1,12 +1,15 @@
 {
-  "name": "oracle-memory-archive-v2",
+  "name": "oracle-desktop",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.4.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "desktop": "tauri dev",
+    "desktop:build": "tauri build"
   },
   "dependencies": {
     "@react-three/drei": "latest",
@@ -15,7 +18,12 @@
     "vite": "latest",
     "@vitejs/plugin-react": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "@tauri-apps/api": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0",
+    "@vitejs/plugin-react": "latest"
+  },
+  "description": "A desktop memory reconstruction archive."
 }
