@@ -1,8 +1,5 @@
-# ORACLE V4 Desktop
-
-**A machine attempting to reconstruct a human life from what remains.**
-
-ORACLE is a downloadable desktop memory archive built with React, Three.js, and Tauri 2. Memories appear as luminous fragments within an intricate orbital reconstruction. Each fragment may preserve a date, time, place, acoustic imprint, environmental context, photograph or video, and personal recollection.
+# v4
+A downloadable desktop memory archive built with React, Three.js, and Tauri 2. Memories appear as fragments within an orbital reconstruction. Each fragment may preserve a date, time, place, acoustic imprint, environmental context, photograph or video, and personal recollection.
 
 ## What changed in V4
 
@@ -56,16 +53,4 @@ src-tauri\target\release\bundle\nsis
 src-tauri\target\release\bundle\msi
 ```
 
-Tauri creates the installer on your Windows computer. This source ZIP is installer-ready, but it does not contain a precompiled `.exe` because Windows installers must be built in a Windows development environment.
-
----
-
-*What happened, and what remained.*
-
-
-## V4.1 — Orbit Visibility
-
-- Increased contrast of the orbital architecture while preserving the pale white-gray aesthetic
-- Reduced the overexposed core bloom
-- Darkened thin trajectory lines to a soft silver-gray
-- Kept memory fragments bright white so they still read as luminous points
+Tauri creates the installer on the Windows computer. This source ZIP is installer-ready, but it does not contain a precompiled `.exe` because Windows installers must be built in a Windows development environment.
