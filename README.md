@@ -54,4 +54,4 @@ src-tauri\target\release\bundle\nsis
 src-tauri\target\release\bundle\msi
 ```
 
-Tauri creates the installer on the Windows computer. This source ZIP is installer-ready, but it does not contain a precompiled `.exe` because Windows installers must be built in a Windows development environment.
+For now Tauri creates the installer on the Windows computer
