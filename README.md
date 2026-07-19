@@ -1,5 +1,5 @@
 # v4
-Desktop memory archive built with React, Three.js, and Tauri 2. Memories appear as orbiting around planet. Each fragment may preserve a date, time, place, acoustic imprint, environmental context, photograph or video, and personal recollection.
+Desktop memory archive built with React, Three.js, and Tauri 2. Memories appear as orbiting around planet. Each fragment may preserve a date, time, place, acoustic imprint, environmental context, photograph or video, and personal recollection. Photos are not as updated
 <img width="937" height="530" alt="image" src="https://github.com/user-attachments/assets/7b8dd8a8-25db-4ed5-a0e0-0e0f963342e2" />
 
 ## What changed in V4
