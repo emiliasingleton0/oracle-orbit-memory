@@ -1,22 +1,13 @@
 # v4
 Desktop memory archive built with React, Three.js, and Tauri 2. Memories appear as orbiting around planet. Each fragment may preserve a date, time, place, acoustic imprint, environmental context, photograph or video, and personal recollection. Photos are not up-to-date
-<img width="937" height="530" alt="image" src="https://github.com/user-attachments/assets/7b8dd8a8-25db-4ed5-a0e0-0e0f963342e2" />
 
 ## What changed in V4
 
 - Tauri desktop application shell
 - Frameless native window with real minimize, maximize, and close controls
 - Windows installer configuration for `.exe` and `.msi`
-- Restored window position and size between sessions
-- Significantly more detailed white orbital architecture
-- Luminous archive core, satellites, radial paths, constellation lines, and 20+ trajectories
-- Consistent archival language throughout the interface
-- `Fragment` replaces the vague term `Trace`
-- `Reconstruction Tools` replaces `Control Panel`
-- `Acoustic Imprints` replaces `Audio Residue`
-- `Detected Echoes` replaces generated relationships
-- `Certainty`, `Signal Strength`, `Visual Resolution`, and `Emotional Temperature` replace unclear calibration labels
 
+## outdated , do not use for now ts :)
 ## Preview it in VS Code
 
 ```powershell
