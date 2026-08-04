@@ -1,7 +1,7 @@
 {
   "name": "oracle-desktop",
   "private": true,
-  "version": "0.4.4",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -25,5 +25,5 @@
     "@tauri-apps/cli": "^2.0.0",
     "@vitejs/plugin-react": "latest"
   },
-  "description": "A desktop memory reconstruction archive."
+  "description": "An immersive, lived-in desktop archive for scattered notes, photos, files, and connected memories."
 }
