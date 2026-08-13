@@ -1,8 +1,6 @@
-# ORACLE Memory Archive
+# Memory Archive Project (WIP)
 
-A memory archive that transforms personal memories into fragments orbiting a central core. Rather than presenting a conventional list of files, it creates an immersive environment for exploring dates, places, photographs, videos, and music.
-
-Built with **React**, **Three.js**, and **Tauri 2**
+A memory archive that transforms personal memories into fragments orbiting a central core. Rather than presenting a conventional list of files, it creates an immersive environment for exploring dates, places, photographs, videos, and music. Built with **React**, **Three.js**, and **Tauri 2**
 
 ## Run in the Browser
 
@@ -20,7 +18,7 @@ npm.cmd install
 npm.cmd run desktop
 ```
 
-You could also right-click `RUN-DESKTOP.ps1` and select **Run with PowerShell**.
+You could also right-click `RUN-DESKTOP.ps1` and select **Run with PowerShell**
 
 ## Build the Windows Installer
 
