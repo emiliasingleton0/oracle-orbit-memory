@@ -1,6 +1,6 @@
 # Memory Archive Project (WIP)
 
-A memory archive that transforms personal memories into fragments orbiting a central core. Rather than presenting a conventional list of files, it creates an immersive environment for exploring dates, places, photographs, videos, and music. Built with **React**, **Three.js**, and **Tauri 2**
+For fun and practice building with **React**, **Three.js**, and **Tauri 2**
 
 ## Run in the Browser
 
